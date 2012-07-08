@@ -7,8 +7,13 @@ LSoC
 The LSoC mission statement is *training tomorrow's engineers by
 contributing to today's free software*.
 
-The repository has two main sections:
-- the LSoC rules, supported by a *good practices* wiki;
-- a portal to collect internship proposals submitted by FOSS projects.
+This repository collects the documents related to the day-to-day
+operations of the LSoC. It also hosts a LSoC wiki, composed of two
+main sections:
+- the LSoC guidelines, supported by a set of *good practices*;
+- a portal to collect internship proposals submitted by free and
+  open-source software projects.
 
-Please use the Markdown syntax to edit the wiki and portal.
+Please use the
+[Markdown](http://daringfireball.net/projects/markdown/syntax) syntax
+to edit the wiki and portal.
